@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6923
     wikipedia: http://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36708#Soeur-Th-r-se-de-l-Enfant-J-sus-et-de-la-Sainte-Face--13-Histoire-d-une--me--crite-par-elle-m_
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text
